@@ -1,0 +1,21 @@
+{
+  "name": "ordor-websocket",
+  "version": "1.0.0",
+  "description": "WebSocket for Ordor.",
+  "main": "index.js",
+  "scripts": {
+    "dev-server": "nodemon index.js"
+  },
+  "author": "Laerolf",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "^0.0.0",
+    "mongodb": "^3.3.0-beta2",
+    "mongodb-topology-manager": "^2.1.0",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
