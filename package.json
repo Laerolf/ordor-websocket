@@ -13,7 +13,7 @@
     "http": "^0.0.0",
     "mongodb": "^3.3.0-beta2",
     "mongodb-topology-manager": "^2.1.0",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.2"
